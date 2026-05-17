@@ -127,7 +127,7 @@ Add screenshots or GIF previews of your portfolio here.
 If you'd like to collaborate or work with me:
 
 - GitHub: https://github.com/nikhilpowar09
-- Portfolio: https://www.nikhilpowar.com
+- Portfolio: https://www-nikhilpowar-com.vercel.app/
 
 ---
 
